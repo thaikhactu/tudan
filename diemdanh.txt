@@ -1,3 +1,4 @@
 Cập nhật thông tin vào file theo định dạng dưới đây
 -----------------------
 MSV  | Họ và tên | Ngày sinh | 
+215748020110411 | Thái Doãn Trường Giang | 24/04/2003
